@@ -5,4 +5,4 @@
 1. Open Delta Android Executor
 2. Paste this code:
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YOUR_USERNAME/mobile-blox-scripts/main/delta-executor.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/levrone24/LUMIB/main/DeltaMain.lua"))()
